@@ -1,0 +1,43 @@
+# VAMPY 2018 Computer Science Final Exam
+## Instructions
+Copy this file into your portfolio, then edit it and add your answers to each question. It is not necessary to answer all questions, so read through all before deciding which to spend your time on. No internet use of any kind is allowed during this activity.
+
+## Questions
+1. What is Computer Science?
+	Not a science. More a combination of logic and problem solving to insturct a machine in how to perform certain tasks.
+2. Briefly explain the solution to the Celebrity Problem.
+	You first find your best candidate. You do this by starting with one person and asking if others know them. If one other person doesn't, then they become you celebrity. This continues on until you have your best candidate. Then you verify their celebrity status by asking them about others and all who haven't been asked about them. If they know someone of someone doesn't know them, then there is no celebrity. If all checks out, you've got your celebrity.
+3. Briefly explain the solution to the Teeter-Totter Rice Problem.
+	You have 9 bags of rice. Group these into 3 bags of 3. Put one group on each side of the teeter-totter. If one side weighs more, you know the bag of rice weighing less is on the other side. If they are equal, the faulty bag is in the group no on the scale. So now you only have 3 bags left. Put one of these 3 on each side. If one weighs more, the other is the special bag. If they are equal, the bag you are looking for is the one not on the scale.
+
+4. Who is Alan Turing?
+	A British computer scientist who helped codebreak for the Allies in WWII against the Nazi communication cypher. Invented the idea of a Turing Machine, which can be emulated in any machine today.
+5. What is a Turing Machine, how does it function, and why are they important in computer science?
+	A Turing Machine, name after Alan Turing, is something that looks over data and depending on what it sees, can either decide to keep moving, pick the data up or put whatever it currently has down on an empty spot. The Turing Machine is very important to computer science because it can represent any computer at its simplest form. 
+
+6. Imagine I have written a Fib program that uses naive recursion. What problems, if any, will I run into?
+	The higher and higher in the Fib sequence you go, the longer it will take because of recursion of "Fib(x) = fib(x-1)+fib(x-2)". This recursion makes the program do far more steps than if you were to say "a=b,b=a+b".
+7. Imagine I have written a Fib program that uses recursion with caching. What problems, if any, will I run into?
+
+8. Sorting a list is best described by which complexity? (O(n), O(log n), etc.)
+	O(n log n)
+9. Searching an unsorted list is best described by which complexity?
+	O(n)
+10. Searching a sorted list is best described by which complexity?
+	O(log n)
+11. Printing all possible orderings of a password is best described by which complexity?
+	O(2**n)
+
+12. Imagine we are using our YAS detection state machine to test some input. So far we have started at state q0, seen a Y and moved into state q1, and seen an A and moved into state q2. What state should we move to if we see an A? an S? a W?
+	If we see an A, stay in state q2.
+	If we see an S, move to state q3.
+	If we see a W, return False.
+
+13. Briefly explain the Object Oriented concept of Inheritance and its benefits/use in programming.
+	When using Classes, certain ones can inherit from others based on their hierarchy. This essentially can create subsets of one class, that can then create further subsets and so on. Classes basically serve as a template and inheritance lets you branch out instead of having to completely put the same things in each class if they are share some traits. 
+
+14. What operations can we typically perform on a Linked List?
+	You can find where a certain piece of data is, add a piece of data into the linked list, remove all of one kind of data or just one piece of it, find the length of the entire list
+
+15. Using either a stack or a queue in a tree/graph traversal algorithm will result in a Breadth-First Search. Which is it?
+	Queue

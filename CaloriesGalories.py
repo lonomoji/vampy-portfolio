@@ -1,0 +1,21 @@
+\print("What is your name?")
+name = input()
+print("What is your usual daily caloric intake?")
+usu_calor = int(input())
+need_calor = 2000-usu_calor
+print("You need {0} calories more each day".format(need_calor))
+print("So, {0}, how many Chewy DIPPS Chocolate Chip Chocolately covered granola bars do you plan on consuming today?".format(name))
+granola = float(input())
+gran_calor = granola*140
+print("That will be {0} calories solely of Chewy DIPPS Chocolate Chip Chocolately covered granola bars today".format(gran_calor))
+print("How much does that impact you on a scale of 1-10?")
+impact = float(input())
+print("We are happy you feel like a {0}. You are only {1} away from feeling like a 10!".format(impact,10-impact))
+print("How many Family Size Bold Party Blend Savory Chex Mix Snack Mix do you plan on devouring today?")
+chex = float(input())
+chex_calor = 1680*chex
+print("That will be {0} calories solely of Family Size Bold Party Blend Savory Chex Mix Snack Mix.".format(chex_calor))
+print("How do you feel about that?")
+emote = input()
+print("We are glad you feel {0}. That's good.".format(emote))
+print("Only off of Chewy DIPPS Chocolate Chip Chocolately covered granola bars and Family Size Bold Party Blend Savory Chex Mix Snack Mix, you are {0} calories away from your daily average and {1} calories away from the regular daily intake.".format(abs(usu_calor-(chex_calor + gran_calor)),abs(2000-(chex_calor + gran_calor))))
