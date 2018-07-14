@@ -1,0 +1,172 @@
+Agriculture + Food + Natural Resources, Animal Breeders, 1, 1
+Agriculture + Food + Natural Resources, Commercial Fisher, 1, 0
+Agriculture + Food + Natural Resources, Fallers, 1, 2
+Agriculture + Food + Natural Resources, Farm Animal Caretakers, 0, 0
+Agriculture + Food + Natural Resources, Farm Labor Contractors, 0, 1
+Agriculture + Food + Natural Resources, Forest and Conservation Workers, 1, 2
+Agriculture + Food + Natural Resources, Garbage and Recyclable Material Collectors, 0, 1
+Agriculture + Food + Natural Resources, Foresters, 3, 4
+Agriculture + Food + Natural Resources, Hunters and Trappers, 1, 2
+Agriculture + Food + Natural Resources, Pest Control Workers, 1, 1
+Architecture + Construction, Architects, 3, 5
+Architecture + Construction, Carpenters, 1, 2
+Architecture + Construction, Brickmasons, 1, 4
+Architecture + Construction, Construction Laborers, 0, 2
+Architecture + Construction, Construction Managers, 3, 6
+Architecture + Construction, Crane and Tower Operators, 1, 3
+Architecture + Construction, Electricians, 1, 4
+Architecture + Construction, Glaziers, 1, 2
+Architecture + Construction, Interior Designer, 3, 3
+Architecture + Construction, Millwrights, 1, 2
+Architecture + Construction, Plumbers, 1, 4
+Architecture + Construction, Roofers, 0, 4
+Architecture + Construction, Stonemasons, 1, 2
+Architecture + Construction, Surveyors, 3, 4
+Arts + Audio/Video Technology + Communications, Actors, 2, 1
+Arts + Audio/Video Technology + Communications, Broadcast News Analysts, 3, 1
+Arts + Audio/Video Technology + Communications, Dancers, 0, 0
+Arts + Audio/Video Technology + Communications, Camera Operators, 3, 1
+Arts + Audio/Video Technology + Communications, Editors, 3, 2
+Arts + Audio/Video Technology + Communications, Graphic Designers, 3, 2
+Arts + Audio/Video Technology + Communications, Fashion Designers, 3, 2
+Arts + Audio/Video Technology + Communications, Musicians, 0, 2
+Arts + Audio/Video Technology + Communications, Photographers, 1, 1
+Arts + Audio/Video Technology + Communications, Producers, 3, 4
+Arts + Audio/Video Technology + Communications, Radio Operators, 1, 3
+Arts + Audio/Video Technology + Communications, Writers, 3, 3
+Arts + Audio/Video Technology + Communications, Make Up Artists, 2, 3
+Business Management + Administration, Chief Executives, 3, 8
+Business Management + Administration, Executive Secretaries, 1, 3
+Business Management + Administration, Human Resources Managers, 3, 8
+Business Management + Administration, Mail Clerks, 1, 0
+Business Management + Administration, Interviewers, 1, 1
+Business Management + Administration, Security Managers, 3, 7
+Business Management + Administration, Telephone Operators, 1, 1
+Business Management + Administration, Word Processors, 1, 1
+Education + Training, Archivists, 4, 2
+Education + Training, Coaches and Scouts, 3, 1
+Education + Training, College Level Teachers, 5, 8
+Education + Training, Curators, 4, 2
+Education + Training, Elementary School Teachers, 3, 3
+Education + Training, High School Teachers, 3, 3
+Education + Training, Middle School Teachers, 3, 3
+Education + Training, Interpreters and Translators, 3, 3
+Education + Training, Librarians, 4, 3
+Education + Training, Special Education Teachers, 3, 3
+Education + Training, Tutors, 3, 2
+Education + Training, Teacher Assistants, 2, 1
+Finance, Actuaries, 3, 7
+Finance, Accountants, 3, 4
+Finance, Bill Collectors, 1, 1
+Finance, Financial Analysts, 3, 6
+Finance, Fraud Investigators, 3, 4
+Finance, Insurance Sales Agents, 1, 4
+Finance, Tellers, 1, 0
+Finance, Personal Financial Advisors, 3, 6
+Finance, Loan Officers, 3, 4
+Government + Public Administration, Legislators, 3, 1
+Government + Public Administration, Postmasters and Mail Superintendents, 1, 4
+Government + Public Administration, Statistical Assistants, 3, 3
+Government + Public Administration, Tax Collectors, 3, 3
+Government + Public Administration, Real Estate Appraisers, 3, 4
+Government + Public Administration, Court Clerks, 1, 2
+Health Science, Anethesiologists, 5, 8
+Health Science, Chiropractors, 5, 4
+Health Science, Dentists, 5, 8
+Health Science, Dermatologists, 5, 8
+Health Science, Epidemiologists, 4, 5
+Health Science, Family and General Practicioners, 5, 8
+Health Science, Licensed Practical Nurses, 2, 2
+Health Science, Medical Assistants, 2, 1
+Health Science, Neurologists, 5, 8
+Health Science, Gynecologists, 5, 8
+Health Science, Occupational Therapists, 4, 5
+Health Science, Orthodontists, 5, 8
+Health Science, Pharmacists, 5, 8
+Health Science, Physical Therapists, 5, 5
+Health Science, Psychiatrists, 5, 8
+Health Science, Veterinarians, 5, 6
+Health Science, Surgeons, 5, 8
+Hospitality + Tourism, Bakers, 0, 1
+Hospitality + Tourism, Bartenders, 0, 0
+Hospitality + Tourism, Fast Food Cooks, 0, 0
+Hospitality + Tourism, Hotel + Motel and Resort Desk Clerks, 1, 0
+Hospitality + Tourism, Janitors and Cleaners, 0, 0
+Hospitality + Tourism, Institution and Cafeteria Cooks, 0, 1
+Hospitality + Tourism, Maids and Housekeepers, 0, 0
+Hospitality + Tourism, Restaurant Cooks, 0, 0
+Hospitality + Tourism, Travel Agents, 1, 2
+Hospitality + Tourism, Waiters and Waitresses, 0, 0
+Human Services, Hairdressers, 2, 0
+Human Services, Clergy, 3, 2
+Human Services, Embalmers, 2, 2
+Human Services, Childcare Workers, 1, 0
+Human Services, Marriage and Family Therapists, 4, 2
+Human Services, Substance Abuse Counselors, 3, 4
+Human Services, Tailors, 0, 2
+Human Services, Textile and Garment Dressers, 0, 0
+Information Technology, Computer Programmers, 3, 5
+Information Technology, Database Architects, 3, 5
+Information Technology, Information Security Analysts, 3, 7
+Information Technology, Video Game Designer, 3, 5
+Information Technology, Systems Software Developers, 3, 8
+Information Technology, Web Developers, 2, 5
+Law + Public Safety + Corrections + Security, Animal Control Workers, 1, 1
+Law + Public Safety + Corrections + Security, Bailiffs, 1, 1
+Law + Public Safety + Corrections + Security, Correctional Officers, 1, 2
+Law + Public Safety + Corrections + Security, Criminal Investigators, 3, 5
+Law + Public Safety + Corrections + Security, Firefighters, 2, 0
+Law + Public Safety + Corrections + Security, Paramedics, 2, 1
+Law + Public Safety + Corrections + Security, Judges, 5, 8
+Law + Public Safety + Corrections + Security, Lawyers,  5, 8
+Law + Public Safety + Corrections + Security, Police Officers, 1, 4
+Law + Public Safety + Corrections + Security, Security Guards, 1, 0
+Manufacturing, Butchers and Meat Cutters, 0, 1
+Manufacturing, Chemical Technicians, 2, 2
+Manufacturing, Machine Operators, 1, 1
+Manufacturing, Furniture Finishers, 1, 1
+Manufacturing, Gas Plant Operators, 1, 4
+Manufacturing, Locksmiths, 1, 2
+Manufacturing, Jewelers, 1, 1
+Manufacturing, Machinists, 1, 2
+Manufacturing, Musical Instrument Repairers and Tuners, 1, 2
+Manufacturing, Nuclear Technicians, 2, 5
+Manufacturing, Power Plant Operators, 1, 5
+Manufacturing, Slaughterers and Meat Packers, 0, 0
+Manufacturing, Upholsterers, 1, 1
+Marketing + Sales + Service, Cashiers, 0, 0
+Marketing + Sales + Service, Advertising Sales Agents, 1, 3
+Marketing + Sales + Service, Marketing Managers, 3, 8
+Marketing + Sales + Service, Models, 0, 0
+Marketing + Sales + Service, Real Estate Agents, 1, 2
+Marketing + Sales + Service, Telemarketers, 0, 0
+Marketing + Sales + Service, Retail Salesperson, 0, 0
+Marketing + Sales + Service, Sales Managers, 3, 8
+Science + Technology + Engineering + Mathematics, Astronomers, 5, 7
+Science + Technology + Engineering + Mathematics, Biochemical Engineer, 3, 8
+Science + Technology + Engineering + Mathematics, Anthropologists + Archeologists, 4, 3
+Science + Technology + Engineering + Mathematics, Cartographer, 3, 4
+Science + Technology + Engineering + Mathematics, Chemists, 3, 5
+Science + Technology + Engineering + Mathematics, Economists, 4, 4
+Science + Technology + Engineering + Mathematics, Chemical Engineer, 3, 6
+Science + Technology + Engineering + Mathematics, Geneticists, 3, 4
+Science + Technology + Engineering + Mathematics, Historian, 4, 2
+Science + Technology + Engineering + Mathematics, Mathmatician, 4, 6
+Science + Technology + Engineering + Mathematics, Microbiologist, 3, 3
+Science + Technology + Engineering + Mathematics, Nuclear Engineer, 3, 7
+Science + Technology + Engineering + Mathematics, Physicists, 5, 8
+Science + Technology + Engineering + Mathematics, Political Scientists, 4, 8
+Science + Technology + Engineering + Mathematics, Sociologists, 4, 5
+Science + Technology + Engineering + Mathematics, Statisticians, 4, 6
+Transportation + Distribution + Logistics, Airline Pilots, 3, 8
+Transportation + Distribution + Logistics, Bicycle Repairers, 1, 0
+Transportation + Distribution + Logistics, Bus and Truck Mechanics, 1, 2
+Transportation + Distribution + Logistics, Mates of Water Vessels, 2, 4
+Transportation + Distribution + Logistics, Dispatchers, 1, 2
+Transportation + Distribution + Logistics, Flight Attendants, 1, 7
+Transportation + Distribution + Logistics, School Bus Drivers, 1, 1
+Transportation + Distribution + Logistics, Subway and Streetcar Operators, 1, 4
+Transportation + Distribution + Logistics, Taxi Driver and Chauffers, 0, 0
+Transportation + Distribution + Logistics, Transit and Intercity Bus Drivers, 1, 1
+Transportation + Distribution + Logistics, Vehicle Cleaners, 0, 0
+Transportation + Distribution + Logistics, Traffic Technicians, 1, 3
